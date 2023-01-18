@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Christmas-timer/static/css/main.66c15847.css",
+    "main.js": "/Christmas-timer/static/js/main.352f58a4.js",
+    "static/js/787.b0da90a2.chunk.js": "/Christmas-timer/static/js/787.b0da90a2.chunk.js",
+    "static/media/pexels-george-dolgikh-1303085.jpg": "/Christmas-timer/static/media/pexels-george-dolgikh-1303085.deca1c34e2b84c940ce6.jpg",
+    "index.html": "/Christmas-timer/index.html",
+    "main.66c15847.css.map": "/Christmas-timer/static/css/main.66c15847.css.map",
+    "main.352f58a4.js.map": "/Christmas-timer/static/js/main.352f58a4.js.map",
+    "787.b0da90a2.chunk.js.map": "/Christmas-timer/static/js/787.b0da90a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66c15847.css",
+    "static/js/main.352f58a4.js"
+  ]
+}
