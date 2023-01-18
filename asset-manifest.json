@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Christmas-timer/static/css/main.f6f4945b.css",
-    "main.js": "/Christmas-timer/static/js/main.941faff1.js",
+    "main.css": "/Christmas-timer/static/css/main.093dbd98.css",
+    "main.js": "/Christmas-timer/static/js/main.94d3ae7e.js",
     "static/js/787.b0da90a2.chunk.js": "/Christmas-timer/static/js/787.b0da90a2.chunk.js",
     "static/media/pexels-george-dolgikh-1303085.jpg": "/Christmas-timer/static/media/pexels-george-dolgikh-1303085.deca1c34e2b84c940ce6.jpg",
     "index.html": "/Christmas-timer/index.html",
-    "main.f6f4945b.css.map": "/Christmas-timer/static/css/main.f6f4945b.css.map",
-    "main.941faff1.js.map": "/Christmas-timer/static/js/main.941faff1.js.map",
+    "main.093dbd98.css.map": "/Christmas-timer/static/css/main.093dbd98.css.map",
+    "main.94d3ae7e.js.map": "/Christmas-timer/static/js/main.94d3ae7e.js.map",
     "787.b0da90a2.chunk.js.map": "/Christmas-timer/static/js/787.b0da90a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6f4945b.css",
-    "static/js/main.941faff1.js"
+    "static/css/main.093dbd98.css",
+    "static/js/main.94d3ae7e.js"
   ]
 }
